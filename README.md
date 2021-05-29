@@ -21,3 +21,4 @@ how to use :
 
 nb : sebelum run lu ganti data siswa/mahasiswa dulu di scriptnya, run seperti sc biasa/ kalo punya github di fork aja sc gw ubah data.
 
+thanks bro
